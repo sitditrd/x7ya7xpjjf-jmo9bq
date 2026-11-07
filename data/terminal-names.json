@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "updated": "2026-11-07",
+  "terminals": [
+    {
+      "code": "HBCT",
+      "en": "Hutchison Ports Busan",
+      "loc": "KRPUS",
+      "names": ["신감만 한국허치슨(주) 터미널", "부산 허치슨터미널 (HBCT)", "허치슨 신감만터미널", "허치슨감만컨테이너터미널"],
+      "basis": "신감만부두 운영사의 영문 상호(운영사 연혁 — 자성대에서 신감만·감만 1번 선석으로 이전). 약호는 SMDG 터미널 코드. 부산항의 허치슨 터미널은 이 운영사 하나라, 선사마다 다른 표기('허치슨 신감만터미널' · '허치슨감만컨테이너터미널')도 같은 곳이다.",
+      "src": [
+        "https://www.hktl.com/eng/Info/details.do?id=MD021 — Hutchison Ports Busan (legal name: Hutchison Korea Terminals)",
+        "https://www.hktl.com/eng/Info/details.do?id=MD025 — 2025 Relocation to New Gamman and Gamman Terminal Berth No. 1",
+        "https://www.bic-code.org/facility-codes/smdg/krpushbct/ — SMDG KRPUSHBCT · HUTCHISON BUSAN CONTAINER TERMINAL (HBCT)"
+      ]
+    },
+    {
+      "code": "",
+      "en": "INTERGIS CY (Pier 7)",
+      "loc": "KRPUS",
+      "names": ["인터지스CY(7부두)"],
+      "basis": "운영사(INTERGIS)와 부두(Pier 7)의 공식 영문 표기를 원문 짜임대로 옮겼다. 인터지스는 부산 북항 7부두(Busan North Port Pier 7 · 항만공사 표의 TOC Pier 7)와 감천항 7부두(Gamcheon Port Pier 7)를 함께 운영해, 원문만으로 어느 7부두인지 정하지 않고 표기에 항만 구역을 붙이지 않는다. 공개된 터미널 약호는 찾지 못해 비운다.",
+      "src": [
+        "https://www.intergis.co.kr/eng/CMS/Contents/Contents.do?mCode=MN011 — INTERGIS · Busan North Port Pier 7 (같은 메뉴에 Gamcheon Port Pier 7)",
+        "https://www.busanpa.com/eng/index.bpa?menuCd=DOM_000000202002002000 — Busan North Port · TOC Pier 7 · Terminal Operator Intergis"
+      ]
+    },
+    {
+      "code": "E1CT",
+      "en": "E1 Container Terminal",
+      "loc": "KRINC",
+      "names": ["인천E1컨테이너터미널"],
+      "src": [
+        "https://www.e1ct.co.kr/ — 영문 화면: E1 Container Terminal Co., Ltd. · E1CT",
+        "https://www.bic-code.org/facility-codes/smdg/krince1ct/ — SMDG KRINCE1CT · E1 CONTAINER TERMINAL"
+      ]
+    },
+    {
+      "code": "PNCT",
+      "en": "Pyeongtaek Dongbang I-Port",
+      "loc": "KRPTK",
+      "names": ["평택동방아이포트"],
+      "basis": "평택항 신컨테이너터미널(PNCT)을 운영하는 회사의 영문 상호(원문이 회사 이름이다).",
+      "src": [
+        "http://www.pnct.co.kr/homepage/eng/page/com_ceo.jsp — Pyeongtaek Dongbang I-Port · New Container Terminal(2010~)",
+        "http://www.pnct.co.kr/homepage/main/ — 평택동방아이포트 · 평택항 신 컨테이너 터미널 · PNCT",
+        "https://www.bic-code.org/facility-codes/smdg/krptkpnct/ — SMDG KRPTKPNCT · PYEONGTAEK DONGBANG I-PORT"
+      ]
+    },
+    {
+      "code": "PCTC",
+      "en": "Hanjin Pyeongtaek Container Terminal",
+      "loc": "KRPTK",
+      "names": ["한진평택컨테이너터미널-동부두"],
+      "basis": "'-동부두' 는 평택항 동부두 6~9번 선석 — 이 터미널의 선석이라 약호가 같은 곳을 가리킨다.",
+      "src": [
+        "https://www.pctc21.com/?lang=en — Hanjin Pyeongtaek Container Terminal · PCTC",
+        "https://www.hanjin.com/eng/Main.do — Pyeongtaek Container Terminal CO. Ltd (PCTC)",
+        "https://www.bic-code.org/facility-codes/smdg/krptkpctc/ — SMDG KRPTKPCTC · PYEONGTAEK CONTAINER TERMINAL",
+        "https://www.pctc21.com/terminal/facility?lang=en — Berth No.6 ~ No.9",
+        "https://www.gppc.or.kr/ko/port-info/facilities — 동부두 6~9번 선석 · 컨테이너"
+      ]
+    },
+    {
+      "code": "JUCT",
+      "en": "Jeongil Ulsan Container Terminal",
+      "loc": "KRUSN",
+      "names": ["울산 정일 터미널", "울산 정일울산컨테이너터미널(JUCT)"],
+      "basis": "'울산 정일 터미널' 은 같은 항차를 다른 선사가 '울산 정일울산컨테이너터미널(JUCT)' 로 적는 곳이고, 울산항의 정일 컨테이너 부두는 이 하나다(온산항 정일 부두).",
+      "src": [
+        "https://www.upa.or.kr/eng/contents.do?mid=0203010000 — Onsan Port · Jeong-il keon Pier · Terminal Operator Jeongil Ulsan Container Terminal(원문 철자 Terminl)",
+        "https://www.juct.co.kr/ — 정일울산컨테이너터미널 · JUCT",
+        "https://www.bic-code.org/facility-codes/smdg/krusnjuct/ — SMDG KRUSNJUCT · JEONG IL ULSAN CONTAINER TERMINAL"
+      ]
+    },
+    {
+      "code": "KIT",
+      "en": "Korea International Terminals",
+      "loc": "KRKAN",
+      "names": ["한국국제터미널(허치슨 광양)", "KIT(한국국제터미널)", "한국국제터미널(KIT)"],
+      "basis": "광양항 허치슨 터미널 운영사의 영문 법인명(공식 누리집 하단 · 브랜드는 Hutchison Ports Gwangyang). 약호는 SMDG 터미널 코드. '한국국제터미널(허치슨 광양)' 은 다른 선사가 'KIT(한국국제터미널)' · '한국국제터미널(KIT)' 로 적는 같은 터미널이라 함께 싣는다.",
+      "src": [
+        "https://www.kitl.com/eng/index.kitl — Hutchison Ports Gwangyang (허치슨포트 광양) · COPYRIGHT (C) Korea International Terminals Co. Ltd.",
+        "https://www.bic-code.org/facility-codes/smdg/krkankit/ — SMDG KRKANKIT · KOREA INTERNATIONAL CONTAINER TERMINAL · operator KOREA INTERNATIONAL TERMINAL"
+      ]
+    },
+    {
+      "code": "",
+      "en": "BPT Sinseondae Terminal",
+      "loc": "KRPUS",
+      "names": ["BPT 신선대", "BPT신선대터미널"],
+      "basis": "운영사 영문 누리집의 회사 약호(BPT · Busan Port Terminal Corp.)와 터미널 영문명(Sinseondae Terminal)을 원문 짜임대로 옮겼다. 다른 선사는 같은 터미널을 '(BPTS)' 를 붙여 적지만 운영사 · 항만공사 · SMDG 에서 그 약호를 확인하지 못해 비운다(이름 안에 약호가 든 원문은 그 약호를 그대로 쓴다).",
+      "src": [
+        "https://www.bptc.co.kr/eng/Main.do — Busan Port Terminal Corp. · About BPT · Sinseondae Terminal opened",
+        "https://www.bptc.co.kr/eng/CMS/Contents/Contents.do?mCode=MN016 — Terminal Facilities and Capacity · Sinseondae · Gamman",
+        "https://www.busanpa.com/eng/index.bpa?menuCd=DOM_000000202002002000 — Busan North Port · Sinseondae TML · Terminal Operator Busan Port Terminal"
+      ]
+    },
+    {
+      "code": "",
+      "en": "BPT Gamman Terminal",
+      "loc": "KRPUS",
+      "names": ["BPT 감만", "BPT감만터미널"],
+      "basis": "운영사 영문 누리집의 회사 약호(BPT · Busan Port Terminal Corp.)와 터미널 영문명(Gamman Terminal)을 원문 짜임대로 옮겼다. 다른 선사는 같은 터미널을 '(BPTG)' 를 붙여 적지만 운영사 · 항만공사 · SMDG 에서 그 약호를 확인하지 못해 비운다(이름 안에 약호가 든 원문은 그 약호를 그대로 쓴다).",
+      "src": [
+        "https://www.bptc.co.kr/eng/Main.do — Busan Port Terminal Corp. · About BPT · Completion Ceremony of Gamman Terminal",
+        "https://www.bptc.co.kr/eng/CMS/Contents/Contents.do?mCode=MN016 — Terminal Facilities and Capacity · Sinseondae · Gamman"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "옥계 터미널",
+      "loc": "KROKK",
+      "why": "강릉 옥계항의 어느 부두·운영사인지 공개 자료로 특정하지 못했다. 공식 영문명·약호 미확인 — 원문 그대로 둔다."
+    },
+    {
+      "name": "포항신항만",
+      "loc": "KRKPO",
+      "why": "포항에는 영일만항 컨테이너 터미널(SMDG KRKPOPICT · POHANG INTERNATIONAL CONTAINER TERMINAL (PICT))과 포항신항(Pohang New Port · 일반부두)이 따로 있어 원문 이름만으로 어느 쪽인지 정할 수 없다 — 원문 그대로 둔다.",
+      "src": [
+        "https://www.bic-code.org/facility-codes/smdg/krkpopict/ — SMDG KRKPOPICT · operator POHANG YEONGILMAN SHINHANG PORT CO.",
+        "https://www.motir.go.kr/kftz/en/area/pohang.do — New port (POSCO) · Yeongilman Port (container terminal)"
+      ]
+    }
+  ]
+}
