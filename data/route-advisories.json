@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "updated": "2026-11-07",
+  "maxAgeDays": 21,
+  "advisories": [
+    {
+      "id": "redsea-babelmandeb",
+      "scope": "passage",
+      "key": "babalmandab",
+      "also": ["suez"],
+      "kind": "avoid",
+      "title": "홍해·바브엘만데브 해상보안 — 희망봉 우회 권고 유지(수에즈 단계적 복귀 진행 중)",
+      "source": { "name": "UKMTO·JMIC 해상보안 권고", "url": "https://www.ukmto.org/partner-products/jmic-products" },
+      "asof": "2026-11-07",
+      "note": "3대 얼라이언스·MSC가 서비스별로 수에즈 복귀 중(에버그린 11월, HMM·양밍 12월 첫 통항), ZIM은 우회. 10월 중순 극동-유럽 선복 63%가 홍해 경유(일부 유럽행만)이나 실제 통과량은 2023년의 절반 수준, 전면 복귀 2027년 1분기 전망. JMIC 위협 등급 '상당'(10월 말). 수에즈 경유가 공표된 서비스는 이 항목을 끄고 비교.",
+      "i18n": {
+        "en": {
+          "title": "Red Sea / Bab-el-Mandeb security — Cape of Good Hope diversion still advised (phased Suez return under way)",
+          "source": "UKMTO / JMIC maritime security advisories",
+          "note": "All three alliances and MSC are returning to Suez service by service (Evergreen in November, HMM and Yang Ming in December); ZIM stays on the Cape. In mid-October 63% of Far East-Europe capacity sat on Red Sea loops (some westbound only), but Suez transits were about half of 2023's; full return is due in Q1 2027. JMIC threat: substantial (late Oct). Turn this off for services published via Suez."
+        },
+        "zh": {
+          "title": "红海·曼德海峡海上安全 — 仍建议绕行好望角（苏伊士分阶段恢复中）",
+          "source": "UKMTO·JMIC 海上安全通告",
+          "note": "三大联盟与MSC正按航线逐步恢复苏伊士通行（长荣11月起，HMM、阳明计划12月首次通行），以星（ZIM）仍绕行好望角。10月中旬，远东—欧洲运力的63%部署在经红海的航线上（部分仅西行经红海），但苏伊士实际通行量约为2023年的一半，预计2027年第一季度全面恢复。10月下旬 JMIC 威胁等级为“Substantial”（较高）。已公布经苏伊士的航线请关闭此项后再比较。"
+        },
+        "ja": {
+          "title": "紅海・バブ・エル・マンデブ海峡の海上保安 — 喜望峰経由の迂回推奨を継続（スエズへの段階的復帰が進行中）",
+          "source": "UKMTO・JMIC 海上保安勧告",
+          "note": "3大アライアンスとMSCがサービスごとにスエズへ復帰中です（エバーグリーンは11月から、HMMと陽明は12月に初通航の予定）。ZIMは喜望峰経由を継続。10月中旬時点で極東・欧州航路の船腹の63%が紅海経由のループに配置（一部は欧州向けのみ）されていますが、スエズの実際の通航量は2023年の約半分で、全面復帰は2027年第1四半期の見通し。10月下旬のJMICの脅威レベルは「Substantial」。スエズ経由と公表されたサービスは、この項目をオフにして比較してください。"
+        },
+        "ru": {
+          "title": "Красное море и Баб-эль-Мандеб: обход через мыс Доброй Надежды по-прежнему рекомендуется (идёт поэтапный возврат в Суэц)",
+          "source": "UKMTO / JMIC: рекомендации по морской безопасности",
+          "note": "Три альянса и MSC поэтапно возвращаются в Суэц (Evergreen — с ноября, HMM и Yang Ming — в декабре); ZIM — вокруг мыса. В середине октября 63% мощностей на линиях Азия — Европа шло через Красное море (часть — лишь в Европу), но транзит через Суэц — около половины уровня 2023 г.; полный возврат — в I кв. 2027 г. JMIC: угроза «существенная» (конец октября). Для линий через Суэц отключите пункт."
+        },
+        "es": {
+          "title": "Mar Rojo y Bab el-Mandeb: se sigue recomendando desviar por el cabo de Buena Esperanza (vuelta gradual a Suez en curso)",
+          "source": "UKMTO / JMIC: avisos de seguridad marítima",
+          "note": "Las tres alianzas y MSC vuelven a Suez por fases (Evergreen en nov.; HMM y Yang Ming en dic.); ZIM sigue por el Cabo. A mediados de octubre el 63 % de la capacidad Asia-Europa usaba bucles vía mar Rojo (algunos solo de ida), pero el tránsito por Suez rondaba la mitad del nivel de 2023; vuelta plena en el 1T de 2027. JMIC: amenaza «sustancial» (fin de octubre). Desactívelo para servicios vía Suez."
+        }
+      },
+      "evidence": [
+        { "date": "2026-11-06", "name": "Gulf News — JMIC Update 111(11-05) 인용", "url": "https://gulfnews.com/business/energy/bab-al-mandab-ship-traffic-shows-signs-of-recovery-report-1.500737875",
+          "summary": "남부 홍해 의심 활동 1건(MSCIO 168/26), 상선 공격 확인 없음, 해역은 여전히 불안정. 11월 1~4일 바브엘만데브 일평균 약 34척 통항(전주 약 28척) — 7월 20일 후티 '선별적 봉쇄' 선언 전 수준 미달." },
+        { "date": "2026-11-06", "name": "Maersk Europe Market Update(11월)", "url": "https://www.maersk.com/news/articles/2026/11/06/europe-market-update-november",
+          "summary": "Gemini ME1 이 AE5·AE11·AE12·AE15·AE19·ME2 에 이어 희망봉에서 수에즈 경유로 전환." },
+        { "date": "2026-11-03", "name": "The Loadstar", "url": "https://theloadstar.com/major-liners-set-to-resume-all-asia-europe-services-through-suez/",
+          "summary": "주요 선사 모두 아시아-북유럽·지중해 수에즈 통항 재개 예정 — 에버그린 11월 7·11일, 양밍·HMM 12월. ZIM 만 희망봉 유지. 3대 얼라이언스·MSC 2027년 1분기 전면 복귀 전망(Linerlytica). 일시적 안보 완화에 따른 복귀." },
+        { "date": "2026-11-03", "name": "Maritime Gateway — 머스크·하팍로이드 11월 2일 발표", "url": "https://www.maritimegateway.com/maersk-hapag-lloyd-reroute-india-europe-me1-service-via-suez-canal/",
+          "summary": "ME1(IOS) 희망봉→수에즈, 11월 4일 살랄라 출항 항차부터. 앞서 SE3(7월)·AE5·AE11·AE12·ME2(9월 14일) 전환. 보안·운항 여건에 달렸다고 명시." },
+        { "date": "2026-10-29", "name": "해양통신 — HMM·ONE 10월 22일 고객 공지", "url": "https://www.oceanpress.co.kr/news/article.html?no=31626",
+          "summary": "프리미어 얼라이언스 MD1(11월 10일 닝보 출항 YM TRUST — The Loadstar 11-03 은 11월 13일)·MS2(11월 16일 칭다오 출항 ONE SYNERGY, 부산 기항 서비스)부터 수에즈 경유. 기사 해설: 홍해 항로 전면 정상화는 아님. HMM: 상황 변화에 따라 경로 재조정 가능." },
+        { "date": "2026-10-25", "name": "Gulf News — JMIC 권고(3월 1일~10월 25일) 인용", "url": "https://gulfnews.com/world/mena/strait-of-hormuz-crisis-nearly-500-vessels-face-disruption-amid-new-tanker-attack-1.500723273",
+          "summary": "남부 홍해·바브엘만데브 위협 등급 '상당(Substantial)' — 사우디·이스라엘·예멘 정부 연계 선박 추가 공격 가능. 10월 22~24일 통항 58척(평시 하루 약 61척)." },
+        { "date": "2026-10-21", "name": "The Loadstar — Alphaliner 조사 인용", "url": "https://theloadstar.com/nearly-two-thirds-of-far-east-europe-capacity-now-back-to-suez-canal/",
+          "summary": "상위 10개 선사 노선 조사: 극동-유럽 배치 선복의 63%가 홍해 경유 노선(지중해 70%·북유럽 58%). 일부 노선은 유럽행만 바브엘만데브를 지나고 아시아행은 희망봉. 10개사 중 5곳 통항 확인, 프리미어 3사 복귀 예고(실현 시 8곳), 에버그린·ZIM 미복귀(에버그린은 11-03 Loadstar 기준 11월 재개)." },
+        { "date": "2026-10-19", "name": "SWZ Maritime — BIMCO 인용", "url": "https://swzmaritime.nl/news/2026/10/19/suez-canal-container-traffic-passes-50-recovery-mark/",
+          "summary": "10월 초 수에즈·희망봉 항로 컨테이너 선복 중 수에즈 36%(2024~2026년 중반 평균 8%, 사태 전 약 80%). 7월 초 이후 16개 서비스 경로 변경 발표." },
+        { "date": "2026-10-19", "name": "The Loadstar", "url": "https://theloadstar.com/new-asia-med-service-from-gemini-signals-full-suez-return-by-q1/",
+          "summary": "하팍로이드 CEO: 변화가 없으면 2027년 1분기 중 1~2개 예외 외 거의 모든 서비스 수에즈 복귀. 시장 정상화 30~35% 추정(Lars Jensen)." },
+        { "date": "2026-10-16", "name": "Xeneta 주간 시황", "url": "https://www.xeneta.com/news/xeneta-weekly-ocean-container-shipping-market-update-16.10.26",
+          "summary": "10월 5일 바브엘만데브 경유 예정 주간 선복 448,273 TEU — 2023년 8월(930,679 TEU)의 48%, 8월 27일 대비 두 배." },
+        { "date": "2026-10-14", "name": "BIMCO Shipping Number of the Week(Clarksons 자료)", "url": "https://www.bimco.org/news-insights/market-analysis/shipping-number-of-the-week/2026/1014-snow/",
+          "summary": "10월 첫 2주 수에즈 통과 컨테이너 선복 주 75.3만 TEU — 2023년 같은 기간 145.7만 TEU 의 약 52%, 사태 뒤 처음 절반을 넘음." },
+        { "date": "2026-10-07", "name": "The Maritime Executive", "url": "https://maritime-executive.com/article/shots-fired-at-chinese-containership-in-the-red-sea",
+          "summary": "바브엘만데브 북쪽 남부 홍해에서 소형선이 컨테이너선 CUL Klang 에 사격, 인명 피해 없음·주체 미상." },
+        { "date": "2026-10-01", "name": "ACLED", "url": "https://acleddata.com/report/houthi-gains-around-bab-al-mandab-raise-risks-red-sea-shipping-and-global-oil-markets",
+          "summary": "후티가 모카를 장악하고 바브엘만데브까지 진출. 7월 봉쇄 선언 뒤 상선 10척 공격, 8월 24일 이후 확인된 공격은 없으나 표적 확대 능력·의지 유지." },
+        { "date": "2026-09-23", "name": "미 해사청(MARAD) 해사 권고 2026-013", "url": "https://www.maritime.dot.gov/msci/2026-013-red-sea-bab-el-mandeb-strait-gulf-aden-arabian-sea-and-somali-basin-houthi-attacks",
+          "summary": "후티 상선 공격 재개, 7월 20일 사우디 연계 선박 바브엘만데브 봉쇄 선언. 이스라엘·미·영·사우디 연계 선박 위험 높음. 2027년 3월 22일까지 유효." }
+      ]
+    },
+    {
+      "id": "panama-draft",
+      "scope": "passage",
+      "key": "panama",
+      "kind": "delay",
+      "hours": 48,
+      "title": "파나마 운하 흘수·통항 슬롯 제한",
+      "source": { "name": "파나마운하청(ACP) Advisory to Shipping", "url": "https://pancanal.com/en/advisories-to-shipping/" },
+      "asof": "2026-10-23",
+      "note": "2026년 물 수위 하락으로 흘수 제한 강화 — Neopanamax 최대 흘수 약 48피트(14.63m)로 축소, 추가 축소 진행(ACP·외신 확인). 슬롯 대기·감속 통항을 반영한 통과 지연 보수적 추정 48h 를 통과 경로 리드타임에 가산한다(체크 해제 시 미적용). 실제 대기는 슬롯 경매·날짜에 따라 달라지므로 참고값이다.",
+      "i18n": {
+        "en": {
+          "title": "Panama Canal draft and transit-slot restrictions",
+          "source": "Panama Canal Authority (ACP) Advisory to Shipping",
+          "note": "Low 2026 water levels tightened draft limits (Neopanamax max. draft cut to about 48 ft / 14.63 m, with further cuts under way). A conservative 48 h transit delay for slot waits and slow passage is added to lead times via Panama (not applied when unticked). Actual waits vary with slot auctions and dates, so treat it as a reference value."
+        },
+        "zh": {
+          "title": "巴拿马运河吃水与通航时段限制",
+          "source": "巴拿马运河管理局(ACP) 航运公告",
+          "note": "2026 年水位下降，吃水限制收紧（新巴拿马型船最大吃水降至约 48 英尺 / 14.63 米，并在进一步下调）。为反映时段等待与减速通航，对经巴拿马航线的交货期计入保守估计的 48 小时通行延误（取消勾选则不计入）。实际等待因时段拍卖与日期而异，仅供参考。"
+        },
+        "ja": {
+          "title": "パナマ運河の喫水・通航枠の制限",
+          "source": "パナマ運河庁(ACP) Advisory to Shipping",
+          "note": "2026年の水位低下で喫水制限が強化されています（ネオパナマックスの最大喫水は約48フィート／14.63mに縮小、さらに縮小中）。通航枠待ちと減速通航を見込んだ保守的な推定として、パナマ経由のリードタイムに通過遅延48時間を加算します（チェックを外すと適用しません）。実際の待ち時間は通航枠オークションや日付で変わるため参考値です。"
+        },
+        "ru": {
+          "title": "Ограничения осадки и слотов прохода в Панамском канале",
+          "source": "Администрация Панамского канала (ACP), Advisory to Shipping",
+          "note": "Низкий уровень воды в 2026 году ужесточил ограничения осадки (макс. осадка Neopanamax снижена примерно до 48 футов / 14,63 м, сокращение продолжается). К срокам через Панаму добавляется консервативная задержка прохода 48 ч на ожидание слота и медленный проход (не применяется, если снять флажок). Фактическое ожидание зависит от аукционов слотов и дат — это справочное значение."
+        },
+        "es": {
+          "title": "Restricciones de calado y de franjas de tránsito en el Canal de Panamá",
+          "source": "Autoridad del Canal de Panamá (ACP), Advisory to Shipping",
+          "note": "El descenso del nivel del agua en 2026 endureció los límites de calado (calado máximo Neopanamax reducido a unos 48 pies / 14,63 m, con más recortes en curso). Se suma a los plazos vía Panamá un retraso de tránsito conservador de 48 h por esperas de franja y paso lento (no se aplica si se desmarca). Las esperas reales varían con las subastas de franjas y las fechas; es un valor de referencia."
+        }
+      }
+    }
+  ]
+}
